@@ -1,8 +1,10 @@
 title: Qiaofeng (Wilbert) Li # your name (or website title) here
 logo: "/images/ID photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a MSBA candidate at University of Rochester. 
-  Actively seeking data analyst position 
+  I'm a MSBA candidate at University of Rochester.
+   <br><br>
+  Actively seeking data analyst position
+  <br><br>
   <a href="https://www.linkedin.com/in/lqf0928/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
